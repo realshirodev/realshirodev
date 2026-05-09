@@ -13,9 +13,8 @@ Desarrollador Full Stack con pasión por el diseño de videojuegos y la arquitec
 - 📱 Manteniendo aplicaciones de utilidad en la Play Store.
 
 ### 📊 Estadísticas de GitHub
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=realshirodev&show_icons=true&theme=radical)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=realshirodev&layout=compact&theme=radical)
+![Tus estadísticas](https://github-readme-stats-eight-theta.vercel.app/api?username=realshirodev&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=realshirodev&layout=compact&theme=radical)
 
 ### 📫 Cómo contactarme
 [LinkedIn]() | [Instagram](https://www.instagram.com/shirodevof/) | [YouTube](https://www.youtube.com/@shiro_dev/)
