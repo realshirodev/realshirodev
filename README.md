@@ -4,7 +4,7 @@ Desarrollador Full Stack con pasión por el diseño de videojuegos y la arquitec
 
 ### 🛠️ Tecnologías y Herramientas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,php,react,vue,nodejs,flutter,godot,js,unity,unreal,python" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,react,vue,nodejs,flutter,godot,js,unity,unreal,python,c#,cpp" />
 </p>
 
 ### 🔭 Proyectos Actuales
