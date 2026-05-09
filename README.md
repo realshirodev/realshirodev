@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="watermarked_img_2333677048405114083.png" alt="Banner de David Beltran" width="100%">
+  <img src="banner.png" alt="Banner de David Beltran" width="100%">
 </p>
 # ¡Hola, soy David Beltran! 👋
 
