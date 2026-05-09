@@ -1,16 +1,20 @@
-## Hi there 👋
+# ¡Hola, soy [Tu Nombre]! 👋
 
-<!--
-**realshirodev/realshirodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Full Stack con pasión por el diseño de videojuegos y la arquitectura de software.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías y Herramientas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=laravel,php,react,vue,nodejs,flutter,solidity,pydot,js" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Proyectos Actuales
+- 🚀 Desarrollando una plataforma SaaS multi-tenant.
+- 🎮 Creando un MVP de un juego Action-Roguelike en 3D.
+- 📱 Manteniendo aplicaciones de utilidad en la Play Store.
+
+### 📊 Estadísticas de GitHub
+![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=radical)
+
+### 📫 Cómo contactarme
+[LinkedIn](tu_link) | [Instagram](tu_link) | [YouTube](tu_link)
