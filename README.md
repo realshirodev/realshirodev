@@ -13,8 +13,9 @@ Desarrollador Full Stack con pasión por el diseño de videojuegos y la arquitec
 - 📱 Manteniendo aplicaciones de utilidad en la Play Store.
 
 ### 📊 Estadísticas de GitHub
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=radical)
+![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=DavidBeltran&show_icons=true&theme=radical)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidBeltran&layout=compact&theme=radical)
 
 ### 📫 Cómo contactarme
 [LinkedIn](tu_link) | [Instagram](tu_link) | [YouTube](tu_link)
