@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="watermarked_img_2333677048405114083.png" alt="Banner de David Beltran" width="100%">
+</p>
 # ¡Hola, soy David Beltran! 👋
 
 Desarrollador Full Stack con pasión por el diseño de videojuegos y la arquitectura de software.
