@@ -18,4 +18,4 @@ Desarrollador Full Stack con pasión por el diseño de videojuegos y la arquitec
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=realshirodev&layout=compact&theme=radical)
 
 ### 📫 Cómo contactarme
-[LinkedIn]() | [Instagram](https://www.instagram.com/shirodevof/) | [YouTube]([tu_link](https://www.youtube.com/@shiro_dev))
+[LinkedIn]() | [Instagram](https://www.instagram.com/shirodevof/) | [YouTube]([tu_link](https://www.youtube.com/@shiro_dev/)
