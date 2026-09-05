@@ -22,10 +22,10 @@ Ingeniero en Informática, Desarrollador Full Stack, Game Creator y 2D/3D Techni
 
 ### 🔭 Proyectos Actuales & Publicaciones
 
-- 🎨 **[Krita Live Texturing for Blender]():** Add-on para Blender que automatiza la exportación de UVs, apertura de canvas y sincronización en tiempo real con Krita.
-- 📱 **Google Play Store:** Creador de **Voxel Pixel Animations** y utilidades en Flutter/Godot.
+- 🎨 **[Krita Live Texturing for Blender](https://teamapricot.com/marketplace/krita-live-texturing-for-blender):** Add-on para Blender que automatiza la exportación de UVs, apertura de canvas y sincronización en tiempo real con Krita.
+- 📱 **[Google Play Store:** Creador de **Voxel Pixel Animations**](https://play.google.com/store/apps/dev?id=6083272565864352853) y utilidades en Flutter/Godot.
 - 🎮 **Indie Game Dev:** Desarrollando **"Elevator"** (Juego de terror psicológico basado en anomalías) y prototipos 2.5D / 3D.
-- 🌐 **Team Apricot Marketplace:** Creando herramientas y assets para desarrolladores e ilustradores 3D.
+- 🌐 **[Team Apricot Marketplace](https://teamapricot.com/):** Creando herramientas y assets para desarrolladores e ilustradores 3D.
 
 ---
 
