@@ -47,10 +47,10 @@ Ingeniero en Informática, Desarrollador Full Stack, Game Creator y 2D/3D Techni
   <a href="https://www.youtube.com/@shirogame2025" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-shirogame2025-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/shirodevof/" target="_blank">
+  <a href="https://www.instagram.com/realshirodev/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-shirodevof-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.tiktok.com/@shirodevof" target="_blank">
+  <a href="https://www.tiktok.com/@realshirodev" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-shirodevof-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
 </p>
