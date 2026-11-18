@@ -62,8 +62,8 @@ Me apasiona construir **mecánicas y sistemas de videojuegos**, **herramientas d
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=realshirodev&show_icons=true&theme=radical&border_radius=8" alt="Estadísticas de Shiro" height="175" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=realshirodev&layout=compact&theme=radical&border_radius=8&langs_count=8" alt="Lenguajes más usados" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=realshirodev&show_icons=true&theme=radical&border_radius=8" alt="Estadísticas de Shiro" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realshirodev&layout=compact&theme=radical&border_radius=8&langs_count=8" alt="Lenguajes más usados" height="175" />
 </p>
 
 ---
